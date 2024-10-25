@@ -1,0 +1,15 @@
+.discover{
+    padding: 10rem ;
+}
+.discover h1{
+    font-family: gilroy;
+    line-height: 8rem;
+    font-size: 10rem;
+    text-align: center;
+    letter-spacing: -5px;
+    font-weight: 600;
+}
+.discover h1:nth-child(2){
+    font-style: italic;
+    font-weight: 500;
+}

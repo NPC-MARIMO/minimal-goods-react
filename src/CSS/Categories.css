@@ -1,0 +1,29 @@
+.categories{
+    height: 70vh;
+    width: 100vw;
+    color: #fff;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.categories .categoriesContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .5rem;
+    padding: 8rem;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.categories .categoriesContainer .category{
+    padding: 0 1.5rem;
+    border-radius: 50px;
+    border: 1px solid #fff;
+}
+.categories .categoriesContainer .category h1{
+    display: block;
+    font-family: montserrat;
+    font-size: 3.4rem;
+    font-weight: 500;
+}

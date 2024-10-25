@@ -1,0 +1,17 @@
+.nav{
+    padding: 2rem;
+    width: 100%;
+    font-family: gilroy;
+}
+nav{
+    padding-bottom: 2rem;
+    border-bottom: 1px solid #E8E2DA;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav nav ul{
+    list-style: none;
+    gap: 1rem;
+    display: flex;
+}
